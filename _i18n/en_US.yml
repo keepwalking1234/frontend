@@ -3,170 +3,177 @@ global:
   english: English
   spanish: Español
   tagline: English
+  Chinese：中文
   about: About
   twitter: Twitter
 exchanges:
   demo:
-    title: BlinkDemo - Open Source Bitcoin Exchange demo website
-    description: Open Source Bitcoin Exchange demo website
-    keywords: bitcoin, bitcoin exchange, open source bitcoin exchange, bitcoin trading plataform, open source bitcoin trading plataform
-    lead: See our open source Bitcoin exchange in action
+    title: Blink演示：开源的比特币交易平台
+    description: 开源的比特币交易平台
+    keywords: 比特币，比特币交易所，开源的比特币交易平台, 开源，交易平台
+    lead: 请关注我们的开源的比特币交易平台
   chilebit:
-    title: ChileBit.NET - The first bitcoin exchange in Chile
-    description: The first bitcoin exchange in Chile
-    keywords: Buy and sell bitcoin in Chile, bitcoin exchange in Chile, sell bitcoins in Chile, buy bitcoins in Chile
-    lead: The first bitcoin exchange in Chile
+    title: ChileBit.NET - 智利的第一家比特币交易平台
+    description: 智利的第一家比特币交易平台
+    keywords: 智利的第一家比特币交易平台，在智利买卖比特币，在智利如何购买比特币
+    lead: 智利的第一家比特币交易平台
   surbitcoin:
-    title: SurBitcoin - The first bitcoin exchange in Venezuela
-    description: The first bitcoin exchange in Venezuela
-    keywords: Buy and sell bitcoin in Venezuela, bitcoin exchange in Venezuela, sell bitcoins in Venezuela, buy bitcoins in Venezuela
-    lead: The first bitcoin exchange in Venezuela
+    title: SurBitcoin - 委内瑞拉的第一家比特币交易平台
+    description: 委内瑞拉的第一家比特币交易平台
+    keywords: 在委内瑞拉买卖比特币
+    lead: 委内瑞拉的第一家交易平台
   urdubit:
-    title: UrduBit - The first bitcoin exchange in Pakistan
-    description: The first bitcoin exchange in Pakistan
-    keywords: Buy and sell bitcoin in Pakistan, bitcoin exchange in Pakistan, sell bitcoins in Pakistan, buy bitcoins in Pakistan
-    lead: The first bitcoin exchange in Pakistan
+    title: UrduBit - 巴基斯坦的第一家比特币交易平台
+    description: -巴基斯坦的第一家比特币交易平台
+    keywords: 在巴基斯坦如何购买比特币
+    lead: 巴基斯坦的第一家比特币交易平台
   foxbit:
-    title: FoxBit - Buy or sell bitcoins in Brazil
-    description: Compre e venda bitcoins no Brasil de maneira segura através da FoxBit. Com o FoxBit você pode começar a comprar e vender bitcoins hoje. O processo de registro dura menos de um minuto.
-    keywords: Buy and sell bitcoin in Brazil, bitcoin exchange in Brazil, sell bitcoins in Brazil, buy bitcoins in Brazil, Bitcoin exchange in Brazil
-    lead: Compre ou venda seus Bitcoins no Brasil
+    title: FoxBit - 巴西的第一家比特币交易平台
+    description: -巴西的第一家比特币交易平台
+    keywords: 在巴西购买和卖出比特币
+    lead: 巴西的第一家比特币交易平台
   romaniabex:
-    title: RomaniaBitcoin.Exchange - Buy or sell bitcoins in Romania
-    description: Buy and sell bitcoin in Romania
-    keywords: Buy and sell bitcoin in Romania, bitcoin exchange in Romania, sell bitcoins in Romania, buy bitcoins in Romania
-    lead: Buy and sell bitcoin in Romania
+    title: 罗马尼亚的第一家比特币交易平台
+    description: 在罗马尼亚买进和卖出比特币
+    keywords: 在罗马尼亚如何购买比特币
+    lead: 在罗马尼亚如果买进和卖出比特币
+    yuanbit:
+    title:yuanbit-中国第一家blinktrade技术的交易平台
+    description：如果购买比特币
+    keywords：比特币购买，买比特币，如果买比特币
+    lead：中国第一家blinktrade技术的交易平台
+    
 views:
   toolbar:
-    faq: FAQ
-    trading: Trading
-    market: Market
-    signin: Sign in
-    signup: Sign up
-    connect: Connect
+    faq: 常见问题
+    trading: 交易
+    market: 市场
+    signin: 登陆
+    signup: 注册
+    connect: 连接
 
   start:
-    username: "Username:"
-    password: "Password:"
-    login: login
-    signup: Sign up
+    username: 用户名
+    password: 密码
+    login: 登陆
+    signup: 注册
 
   faq:
-    title: FAQ - Frequently Asked Questions
-    get_in_touch: Contact us in case you didn't find the answer to your question
+    title: FAQ - 常见问题
+    get_in_touch: 如果您还有其他疑惑，请联系我们
 
   signup:
-    title: Sign up
-    already_registered:  Already registered?
-    login: Login
-    username: Username
-    email: Email address
-    email_placeholder: "eg.: joe@doe.com"
-    password: Password
-    password_help: At least 8 characters
-    confirm_password: Confirm your password
-    country: Country
-    state: State or Province
-    broker: Broker
-    terms_of_service: Terms of service
-    i_agree_with_terms_of_service: I agree with terms of service
-    signup_button_label: Sign up
+    title: 注册
+    already_registered: 已经注册过？
+    login: 登陆
+    username: 用户名
+    email: 邮箱地址
+    email_placeholder: "例如.: 123456@qq.com"
+    password: 密码
+    password_help: 密码长度至少 8 位
+    confirm_password: 确认您的密码
+    country: 国家
+    state: 省份或者直辖市
+    broker: 代理人
+    terms_of_service: 服务条约
+    i_agree_with_terms_of_service: 我同意一下服务条约
+    signup_button_label: 注册
 
   signin:
-    title: Sign in
-    dont_have_an_account: Don't have an account?
-    signup: Sign up
-    username: Username
-    password: Password
-    forgot_your_password: Forgot your password?
-    login_button_label: Sign in
+    title: 登陆
+    dont_have_an_account: 还没有账户？
+    signup: 注册
+    username: 用户名
+    password: 密码
+    forgot_your_password: 忘记了密码？
+    login_button_label: 登陆
 
   forgot_password:
-    title: Password recovery
-    email: Email
-    recover_password_button_label: Recover password
+    title: 重置密码
+    email: 邮箱地址
+    recover_password_button_label: 重置密码
 
   set_new_password:
-    title: Set new password
-    security_code: Security code
-    security_code_help: We just sent a security code to your email.
-    new_password: New password
-    new_password_help: At least 8 characters
-    confirm_password: Confirm your password
-    set_new_password_button_label: Reset password
+    title: 设置新的密码
+    security_code: 安全验证码
+    security_code_help: 我们已向您的邮箱发送了安全验证码，请查收
+    new_password: 新的密码
+    new_password_help: 密码长度至少 8 位
+    confirm_password: 确认您的密码
+    set_new_password_button_label: 重置您的密码
 
   profile:
-    title: My Profile
+    title: 我的个人资料
     two_factor_auth_section:
-      title: Two factor authentication (2FA)
-      key: Key
-      authentication_code: Authentication code
-      authentication_code_title: Code generated by Google Authenticatior
-      authentication_code_placeholder: Ex. 555555
-      enable: Enable
-      disable: Disable
+      title: 两重验证 (2FA)
+      key: key
+      authentication_code: 两重验证码
+      authentication_code_title: Google两重验证产生的验证码：
+      authentication_code_placeholder: 例如. 555555
+      enable: 启用Google两重验证
+      disable: 停用Google两重验证
 
   trading:
-    title: Buy or Sell
+    title: 买进和卖出
 
   offerbook:
-    title: Order Book
-    cumulative: Cumulative
-    fees: Fees
+    title: 订单
+    cumulative: 累计订单
+    fees: 手续费
 
   customers:
-    title: My customers
+    title: 我的客户
 
   account_overview:
-    title:  Account overview
-    set_user_fees_button_label: Set user fees
+    title:  账户详情
+    set_user_fees_button_label: 设置用户交易手续费
 
   withdraw:
-    title: My Withdrawals
+    title: 我的提现
 
   withdraw_requests:
-    title: Withdrawal requests
+    title:提现申请
 
   deposit:
-    title: My Deposits
+    title: 我的充值
 
   deposit_requests:
-    title: Deposit requests
+    title: 充值申请
 
   ledger:
-    title: Ledger
+    title: 我的总账
 
   algotrading:
-    title: Algorithm Trading
+    title: 程序自动交易
 
   settings:
-    title: Settings
+    title: 设置
 
   verification:
-    title: Verify your account
+    title: 验证我的账户
 
   market:
-    title: Market
+    title: 市场
 
   alerts:
-    verification: You have not submitted your documents. Please verify your account.
-    enable_two_factor: You can increase the security of your account by enabling authentication in two steps
-    frozen_account: Your account has been frozen by the administrator, please contact support.
+    verification: 请提交必须的资料，并验证您的账户
+    enable_two_factor: 为了您的账户的安全性，请启用二重验证系统。
+    frozen_account: 你的账户已经被管理员冻结，请联系管理员。
 
   sidebar:
-    market: "Market:"
-    menu: Menu
-    my_profile: My Profile
-    my_broker: About the exchange
-    trading: Buy or Sell
-    offerbook: Order book
-    ledger: Ledger
-    customers: My customers
-    deposit_requests: Deposit requests
-    withdraw_requests: Withdrawal requests
-    deposit: My Deposits
-    withdraw: My Withdrawals
-    verification: Verify your account
-    support: Suggestions & Support
-    logout: Logout
-    algotrading: Algo Trading
+    market: "市场:"
+    menu: 菜单
+    my_profile: 我的个人资料
+    my_broker: 关于交易所
+    trading: 买进和卖出
+    offerbook: 我的订单
+    ledger: 我的总账
+    customers: 我的客户
+    deposit_requests: 充值申请
+    withdraw_requests: 提现申请
+    deposit: 我的充值
+    withdraw:我的提现
+    verification: 验证我的账户
+    support: 建议和问题
+    logout: 退出
+    algotrading: 程序自动交易
